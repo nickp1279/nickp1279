@@ -6,5 +6,7 @@ Eager to contribute to open-source projects and expand my skills in JavaScript, 
 ### Languages
 (enter here)
 
-### Socials
-nickpieroni24@gmail.com
+### Socials & Connections
+<img src="https://banner2.cleanpng.com/20180529/str/avpsm7w6e.webp" alt="LinkedIn Emoji" style="width: 100px; height: 100px;">
+📧 nickpieroni24@gmail.com
+
