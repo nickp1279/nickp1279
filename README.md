@@ -8,6 +8,7 @@ Eager to contribute to open-source projects and expand my skills in JavaScript, 
 
 ### Socials & Connections
 🟦 <a href="https://www.linkedin.com/in/nicholas-pieroni-25a3262b4?trk=people-guest_people_search-card" target="_blank" class="linkedin-link">
-    linkedin.com/nicholas-pieroni
-📧 nickp ieroni24@gmail.com
+        linkedin.com/nicholas-pieroni
+    </a>
+📧 nickpieroni24@gmail.com
 
