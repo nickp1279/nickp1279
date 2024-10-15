@@ -7,6 +7,38 @@ Eager to contribute to open-source projects and expand my skills in JavaScript, 
 (enter here)
 
 ### Socials & Connections
-<img src="https://banner2.cleanpng.com/20180529/str/avpsm7w6e.webp" alt="LinkedIn Emoji" style="width: 100px; height: 100px;">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LinkedIn Button</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f5f5f5;
+        }
+        .linkedin-button {
+            background-color: #0077b5; /* LinkedIn blue */
+            color: white;
+            border: none;
+            border-radius: 5px;
+            padding: 15px 30px;
+            font-size: 18px;
+            cursor: pointer;
+            text-decoration: none;
+            transition: background-color 0.3s;
+        }
+        .linkedin-button:hover {
+            background-color: #005582; /* Darker blue on hover */
+        }
+    </style>
+</head>
+<body>
+    <a href="https://www.linkedin.com" target="_blank" class="linkedin-button">LinkedIn</a>
+</body>
+</html>
 📧 nickpieroni24@gmail.com
 
