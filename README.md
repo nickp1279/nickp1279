@@ -9,7 +9,7 @@ Java, C++
 ### Socials & Connections
 🟦 <body>
         <a href="https://www.linkedin.com/in/nicholas-pieroni-25a3262b4?trk=people-guest_people_search-card" target="_blank" class="linkedin-link">
-        linkedin.com/nicholas-pieroni
+        LinkedIn
             </a>
 </body>
 📧 nickpieroni24@gmail.com
